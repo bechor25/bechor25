@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 ![fullstack](https://user-images.githubusercontent.com/48318320/103273033-fce2b400-49c6-11eb-8247-c351a63d2d7d.png)
 # ![ללא שם](https://user-images.githubusercontent.com/48318320/103272245-066b1c80-49c5-11eb-9366-3536295abb3c.png)
+
+★  𝗖𝗼𝗻𝘁𝗮𝗰𝘁
+✉ 𝙀𝙢𝙖𝙞𝙡: 𝙗𝙚𝙘𝙝𝙤𝙧𝟐𝟏@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
