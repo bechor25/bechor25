@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![linkdin](https://user-images.githubusercontent.com/48318320/103272405-711c5800-49c5-11eb-937f-fa1c266c40fc.png) 
 # https://www.linkedin.com/in/bechor-simhaev/
 
-![trappolice](https://user-images.githubusercontent.com/48318320/103272779-5e565300-49c6-11eb-940c-1b419cc37a62.png)
+![trappolice-1](https://user-images.githubusercontent.com/48318320/103273153-4d5a1180-49c7-11eb-807f-cf2988e16ee4.png)
 # https://trappolice.herokuapp.com/auth/login
 
 ![myweb-websites](https://user-images.githubusercontent.com/48318320/103272915-b8571880-49c6-11eb-9988-cc27be899075.jpg)
