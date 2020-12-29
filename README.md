@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **bechor25/bechor25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="640" alt="87018c00-694b-11e9-8b5f-c34826306d36" src="https://user-images.githubusercontent.com/48318320/103271936-3bc33a80-49c4-11eb-8170-147b6d920b25.png">
 
+![ללא שם](https://user-images.githubusercontent.com/48318320/103272245-066b1c80-49c5-11eb-9366-3536295abb3c.png)
