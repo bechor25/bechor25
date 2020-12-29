@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![linkdin](https://user-images.githubusercontent.com/48318320/103272405-711c5800-49c5-11eb-937f-fa1c266c40fc.png): # https://www.linkedin.com/in/bechor-simhaev/
+![linkdin](https://user-images.githubusercontent.com/48318320/103272405-711c5800-49c5-11eb-937f-fa1c266c40fc.png): 
+# https://www.linkedin.com/in/bechor-simhaev/
+
 
 ![ללא שם](https://user-images.githubusercontent.com/48318320/103272245-066b1c80-49c5-11eb-9366-3536295abb3c.png)
