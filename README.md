@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![linkdin](https://user-images.githubusercontent.com/48318320/103272405-711c5800-49c5-11eb-937f-fa1c266c40fc.png): 
+![linkdin](https://user-images.githubusercontent.com/48318320/103272405-711c5800-49c5-11eb-937f-fa1c266c40fc.png) 
 # https://www.linkedin.com/in/bechor-simhaev/
 
+![trappolice](https://user-images.githubusercontent.com/48318320/103272779-5e565300-49c6-11eb-940c-1b419cc37a62.png)
+# https://trappolice.herokuapp.com/auth/login
 
-![ללא שם](https://user-images.githubusercontent.com/48318320/103272245-066b1c80-49c5-11eb-9366-3536295abb3c.png)
+![myweb-websites](https://user-images.githubusercontent.com/48318320/103272915-b8571880-49c6-11eb-9988-cc27be899075.jpg)
+# https://bechor-web.herokuapp.com/
+
+![fullstack](https://user-images.githubusercontent.com/48318320/103273033-fce2b400-49c6-11eb-8247-c351a63d2d7d.png)
+# ![ללא שם](https://user-images.githubusercontent.com/48318320/103272245-066b1c80-49c5-11eb-9366-3536295abb3c.png)
