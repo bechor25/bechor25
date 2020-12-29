@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.in/citations?user=USERID"
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fangular%2Fangular&psig=AOvVaw3AlUdi9dlysuYO243PaAdG&ust=1609318404687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC5_LPo8u0CFQAAAAAdAAAAABAD
