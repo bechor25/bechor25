@@ -3,8 +3,8 @@
 ## ★ 📖 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
 * 💻 𝙄'𝙢 𝙖 𝙁𝙎 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 * 🎓 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙎𝙒 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜
-* 🌐 𝙈𝙮 𝙥𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 
-### https://bechor-web.herokuapp.com/
+* 🌐 𝙈𝙮 𝙥𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 ### https://bechor-web.herokuapp.com/
+
 
 ![trappolice-1](https://user-images.githubusercontent.com/48318320/103273153-4d5a1180-49c7-11eb-807f-cf2988e16ee4.png)
 # https://trappolice.herokuapp.com/auth/login
