@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 ★  𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 ✉ 𝙀𝙢𝙖𝙞𝙡: 𝙗𝙚𝙘𝙝𝙤𝙧𝟐𝟏@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+![footer](https://capsule-render.vercel.app/api?section=footer)
