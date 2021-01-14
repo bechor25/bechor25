@@ -5,7 +5,6 @@
 * 🎓 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙎𝙒 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜
 * 🌐 𝙈𝙮 𝙥𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 https://bechor-web.herokuapp.com/
 * 📘 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 https://trappolice.herokuapp.com/auth/login
-<a href="https://trappolice.herokuapp.com/auth/login" target="_blank"> <img src="https://user-images.githubusercontent.com/48318320/103273153-4d5a1180-49c7-11eb-807f-cf2988e16ee4.png" alt="trappolice" width="40" height="40"/> </a>
 
 ## ★ 𝙈𝙮 𝙨𝙩𝙖𝙘𝙠
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
