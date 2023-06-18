@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Bechor&fontSize=35&fontAlignY=32)
 
 ## ★ 📖 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
-* 💻 𝙄'𝙢 𝙖 𝙁𝙎 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
+* 💻 𝙄'𝙢 𝙖 Leading Automation Developer 
 * 🎓 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙋𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙎𝙒 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜
-* 🌐 𝙈𝙮 𝙥𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 https://bechor-web.herokuapp.com/
-* 📘 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 https://trappolice.herokuapp.com/auth/login
+
 
 ## ★ 𝙈𝙮 𝙨𝙩𝙖𝙘𝙠
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
